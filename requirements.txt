@@ -1,0 +1,6 @@
+requests
+matplotlib
+pandas
+numpy
+bs4
+tqdm
