@@ -1,0 +1,1 @@
+# rus-ua-equipment-loss-scraper
